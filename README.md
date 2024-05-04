@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Wallace Menezes 🧑‍💻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7189304280581881857/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-menezes-505019125/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallacem.c/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wallace143900&show_icons=true&theme=dracula)
